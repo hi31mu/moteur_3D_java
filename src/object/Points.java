@@ -14,7 +14,7 @@ package object;
  *  
  * @version 1.0
  * 
- * @author Hippolyte
+ * @author guest
  */
 public class Points {
 	
@@ -34,7 +34,7 @@ public class Points {
 	 * @param y (double)
 	 * @param z (double)
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 */
 	public Points(double x, double y, double z){

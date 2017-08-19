@@ -230,7 +230,7 @@ public class Engine{
 	 * 
 	 * @deprecated get2DPerlinNoiseValue
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 * @param x la largeur
 	 * @param y la hauteur

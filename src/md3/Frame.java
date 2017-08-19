@@ -60,7 +60,7 @@ public class Frame extends JFrame{
 	 * methode de recalcul des points, normale, et Z-buffer<br>
 	 * pour le réaffichage
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 * @version 1.0
 	 */
@@ -134,7 +134,7 @@ public class Frame extends JFrame{
 	 * @param center centre du cube 
 	 * @param Size dimension coté
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 */
 	public static void createCube(int center, int Size){
 		int i=0;
@@ -190,7 +190,7 @@ public class Frame extends JFrame{
 	 * @param dimension largeur map
 	 * @param mod de generation
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 */
 	public static void createMap(int dimension, int mod){
 		int x=dimension;// largeur carte
@@ -279,7 +279,7 @@ public class Frame extends JFrame{
 	 * @param cameraN index de la valeur a modifier (0 à 5)
 	 * @param replace valeur de remplacement
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 */
 	public static void setCamera(int cameraN, double replace){
 		Frame.Camera[cameraN]=replace;
@@ -288,7 +288,7 @@ public class Frame extends JFrame{
 	/**
 	 * methode de reinitialisation des points
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 */
 	public static void reset(){
 		Frame.Points=new object.Points[100000];

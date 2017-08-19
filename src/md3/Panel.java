@@ -367,7 +367,7 @@ public class Panel extends JPanel{
 	 * 
 	 * @version 1.5
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 */
 	public static double[][] makeZBuffer(int index, double[][] Z, double Size, double width, double height){

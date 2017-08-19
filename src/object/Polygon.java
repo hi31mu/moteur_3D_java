@@ -30,7 +30,7 @@ import javax.imageio.ImageIO;
  *   - dist entre 3 et 1<br>
  * @version 1.1
  * 
- * @author Hippolyte
+ * @author guest
  *
  */
 public class Polygon{
@@ -74,7 +74,7 @@ public class Polygon{
 	 * @param Point3 (int)
 	 * @param path de la BufferedImage
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 *
 	 */
 	public Polygon(int point1, int point2, int point3, String path){// texture 
@@ -120,7 +120,7 @@ public class Polygon{
 	 * @param Point3 (int)
 	 * @param couleur (color)
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 *
 	 */
 	public Polygon(int point1, int point2, int point3, Color c){// couleur

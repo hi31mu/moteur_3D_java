@@ -7,7 +7,7 @@ package object;
  * 
  * @version 1.0
  * 
- * @author Hippolyte
+ * @author guest
  *
  */
 public class Edge{
@@ -22,7 +22,7 @@ public class Edge{
 	 * @param point2
 	 * 
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 */
 	public Edge(int point1, int point2){
 		P1=point1;

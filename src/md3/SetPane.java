@@ -26,7 +26,7 @@ public class SetPane extends JFrame{
 	 * ajout d'une menu bar intégrée à l'ecran pour OS X<br>
 	 * 
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 * @version 3.0
 	 */
@@ -90,7 +90,7 @@ public class SetPane extends JFrame{
 	 * 
 	 * @version 2.0
 	 * 
-	 * @author Hippolyte
+	 * @author guest
 	 * 
 	 */
 	private class terminalListener implements KeyListener{
