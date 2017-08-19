@@ -1,0 +1,8 @@
+setCamera(0,20.0);
+setCamera(1,40.0);
+setCamera(2,-80.0);
+setCamera(3,0.0);
+setCamera(4,0.0);
+setCamera(5,0.0);
+
+createMap(50,2);
